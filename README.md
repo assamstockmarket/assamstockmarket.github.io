@@ -1,2 +1,1 @@
-# assamstockmarket.github.io
-Assam Stock Market
+# assam stock market 
